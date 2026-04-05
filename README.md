@@ -444,6 +444,7 @@ Dokumentasi kontrak API tersedia di:
 
 - 📄 [`spotthea-backend/docs/api-contract.md`](spotthea-backend/docs/api-contract.md) — Daftar endpoint, format request/response
 - 📄 [`spotthea-backend/docs/deployment-cpanel.md`](spotthea-backend/docs/deployment-cpanel.md) — Panduan deploy ke cPanel
+- 📄 [`deployment-guide-live-production.md`](deployment-guide-live-production.md) — Panduan lengkap deploy live production (Vercel/Hosting/Render/VPS + Cloudflare + R2)
 - 📄 [`manga-reader-frontend-blueprint.md`](manga-reader-frontend-blueprint.md) — Blueprint lengkap frontend (UI/UX, routing, komponen)
 
 ---
