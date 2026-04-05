@@ -458,4 +458,3 @@ Jika Anda pemula:
 - Mulai dari **Skenario 2 (Vercel + Render + Cloudflare + R2)** karena paling seimbang antara kemudahan dan kestabilan.
 - Jika budget sangat ketat, gunakan **Skenario 1**.
 - Jika butuh kontrol tinggi dan siap kelola infrastruktur, pilih **Skenario 3**.
-
